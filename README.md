@@ -14,3 +14,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Data Analyst with 2 years of experience in data analysis and data visualization.
+My main expertise is in R and data visualization, with experience building interactive tools and dashboards.
+
+I am currently expanding my skill set in Python, SQL, and modern data stacks through personal projects and continuous learning.
+
+This repository gathers projects, experiments, and exercises aimed at strengthening my technical skills and exploring new approaches to data analysis.
+
+## 🛠️ Skills
+
+### Main tools
+- R • Quarto • RShiny
+- Python
+- SQL
+
+### Additional tools
+- Power BI
+- SAS
+- C++
+
+### Data skills
+- Data vizualisation • Data managment • Data analysis • Statistical analysis • 
+
+## 📚 Currently Learning
+- Python for data analysis
+- Advanced SQL
+- Data engineering concepts

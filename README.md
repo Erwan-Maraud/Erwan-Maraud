@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 About Me
 
 <!--
 **Erwan-Maraud/Erwan-Maraud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,22 +21,18 @@ I am currently expanding my skill set in Python, SQL, and modern data stacks thr
 
 This repository gathers projects, experiments, and exercises aimed at strengthening my technical skills and exploring new approaches to data analysis.
 
-## 🛠️ Skills
+## 🛠️ Skills & Tools
 
-### Main tools
-- R • Quarto • RShiny
-- Python
-- SQL
+**Main** : R • Quarto • RShiny • Python • SQL ; with strong capabilities in data visualization, data management, and statistical analysis
 
-### Additional tools
-- Power BI
-- SAS
-- C++
-
-### Data skills
-- Data vizualisation • Data managment • Data analysis • Statistical analysis • 
+**Familiar** : Power BI • SAS • C++
 
 ## 📚 Currently Learning
-- Python for data analysis
-- Advanced SQL
-- Data engineering concepts
+Focusing on Python for data analysis, advanced SQL, and data engineering concepts to broaden technical expertise.
+
+## ⚡ Fun fact: 
+  - Practicing weightlifting for over 10 years 💪
+  - Owner of a dachshund 🐶 (aka “sausage dog”)
+  - Big fan of Pizza 🍕
+  - Interested in finance and markets 💹
+
